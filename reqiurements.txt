@@ -1,0 +1,5 @@
+cffi==1.17.1
+cryptography==45.0.3
+packaging==25.0
+pipdeptree==2.26.1
+pycparser==2.22
